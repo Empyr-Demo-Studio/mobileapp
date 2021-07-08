@@ -1,5 +1,3 @@
 # mobileapp
 Here is a simple change to a file.
-And another 
-Annd another
-Yes, another
+Modifying this file for the Bravo Mobile Feature
